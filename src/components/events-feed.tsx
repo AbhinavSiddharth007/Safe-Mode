@@ -12,7 +12,7 @@ export function EventsFeed() {
         <div className="flex items-end justify-between gap-4 border-b border-black/10 pb-4">
           <div>
             <p className="text-xs font-semibold uppercase tracking-[0.28em] text-slate-500">
-              Live feed
+              Live feed 
             </p>
             <h2 className="mt-1 text-2xl font-semibold text-slate-950">
               Most recent warnings
